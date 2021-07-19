@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "57974bae-40e9-4821-bbf6-29ef09029e2e",
+      "name": "Akshay S K",
+      "email": "akshaysk@gmail.com",
+      "phone": "9966887744"
+    },
+    {
+      "id": "842b2aa7-ff2a-43db-8a01-4d58264c7939",
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "phone": "8899665577"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.app {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.MuiOutlinedInput-input:focus {
+  border-color: #1976d2 !important;
+}
+.MuiOutlinedInput-notchedOutline:focus {
+  border-color: #1976d2 !important;
+}
+.MuiInputBase-input,
+.MuiOutlinedInput-input:hover {
+  border-color: #1976d2 !important;
+}
+.MuiInputBase-input {
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+.MuiButton-containedPrimary,
+.MuiButton-outlinedPrimary {
+  color: #fff !important;
+  background-color: #1976d2 !important;
+  font-weight: 550 !important;
+  border-radius: 0% !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.MuiFormControl-root .MuiTextField-root {
+  border-color: #1976d2 !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.MuiButton-containedSecondary {
+  border-radius: 0% !important;
+  font-weight: 550 !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.MuiOutlinedInput-root {
+  border-radius: 0px !important;
+  /* color: #1976d2 !important; */
+  border-color: #1976d2 !important;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.MuiOutlinedInput-input:focus {
+  border-color: #1976d2 !important;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: #1976d2 !important;
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+.MuiOutlinedInput-input {
+  font-family: "Source Sans Pro", sans-serif !important;
+}
